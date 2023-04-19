@@ -1,2 +1,1 @@
-
-https://raw.githubusercontent.com/roxdevmc/roxdevmc/output/github-contribution-grid-snake-dark.svg?palette=github-dark
+![snake gif](https://github.com/roxdevmc/roxdevmc/blob/output/github-contribution-grid-snake.svg)
