@@ -1,3 +1,7 @@
+ 
+![snake gif](https://github.com/roxdevmc/roxdevmc/blob/output/github-contribution-grid-snake.svg)
+
+
 console.log( "Hello world, I'm _**Maria Cristina**_ but u can call me _*Rox*_ ;)" );
   
 ###### _versão: abril/2023_
@@ -30,5 +34,4 @@ aboutMe:{
               curso: "Oracle-Java";
         }          
  };
- 
-![snake gif](https://github.com/roxdevmc/roxdevmc/blob/output/github-contribution-grid-snake.svg)
+
